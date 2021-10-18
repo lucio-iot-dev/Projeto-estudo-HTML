@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 ul {
   list-style: none;
@@ -372,9 +373,11 @@ nav.show div.icon-close {
   height: auto;
   padding: 4rem 1rem;
 }
-.swiper-pagination-bullet {
-  width: 0.75;
-  height: 0.75;
+.swiper-pagination {
+  width: 0.75rem;
+  height: 1rem;
+  position: relative;
+  overflow-y: hidden;
 }
 
 .swiper-pagination-bullet-active {
@@ -593,12 +596,13 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
+
 /* large devices: 1023 > */
 /* large devices: 992 > */
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {
   .root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
   }
-}
+}*/
 /* medium devices: 767 > */
