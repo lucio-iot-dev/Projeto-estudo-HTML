@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://github.com/lucio-iot-dev/Projeto-estudo-HTML/blob/master/assets/fotos/beautysalon.jpeg" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -46,7 +46,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Projeto-estudo-HTML/new/master) para mais detalhes.
 
 ---
 
