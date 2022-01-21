@@ -3,8 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden;
-}
+  }
 ul {
   list-style: none;
 }
@@ -118,6 +117,7 @@ body {
   z-index: 100;
   background-color: var(--body-color);
   width: 100%;
+ 
 }
 #header.scroll {
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
@@ -142,6 +142,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   width: 100%;
+
 }
 
 nav ul li {
@@ -207,7 +208,7 @@ nav.show ul.grid {
 /*toggle menu*/
 .toggle {
   color: var(--base-color);
-  font-size: 1.5rem;
+  font-size: 2rem;
   cursor: pointer;
 }
 nav .icon-close {
@@ -244,7 +245,7 @@ nav.show div.icon-close {
   background: var(--base-color-second);
   position: absolute;
   top: -16.8%;
-  left: 16.7%;
+  left: 16.2%;
   z-index: 0;
 }
 #home .image img {
@@ -328,6 +329,8 @@ nav.show div.icon-close {
 #testimonials .container {
   margin-left: 0;
   margin-right: 0;
+  position: relative;
+  overflow: hidden;
 }
 
 #testimonials header {
@@ -373,11 +376,11 @@ nav.show div.icon-close {
   height: auto;
   padding: 4rem 1rem;
 }
-.swiper-pagination {
+.swiper-pagination-bullet {
   width: 0.75rem;
-  height: 1rem;
-  position: relative;
-  overflow-y: hidden;
+  height: 0.75rem;
+  /* position: relative;
+  overflow-y: hidden; */
 }
 
 .swiper-pagination-bullet-active {
@@ -476,7 +479,7 @@ footer .social a:hover {
 /*=============MEDIA QUERIES===============*/
 /* extra large devices: 1200 > */
 @media (min-width: 1200px) {
-  /*reusable classes*/
+ 
   .container {
     max-width: 1120px;
     margin-left: auto;
@@ -522,7 +525,7 @@ footer .social a:hover {
 
   nav .icon-menu {
     display: none;
-  }
+   }
   /*layout*/
 
   main {
@@ -580,12 +583,13 @@ footer .social a:hover {
     max-width: 25rem;
   }
 
-  /*footer*/
+  footer
 
   footer.section {
     padding: 3.75rem 0;
+    height: 15rem;
   }
-
+ 
   footer .container {
     grid-auto-flow: column;
     align-items: center;
@@ -597,12 +601,5 @@ footer .social a:hover {
   }
 }
 
-/* large devices: 1023 > */
-/* large devices: 992 > */
-/*@media (min-width: 992px) {
-  .root {
-    --title-font-size: 2.25rem;
-    --subtitle-font-size: 1.125rem;
-  }
-}*/
-/* medium devices: 767 > */
+
+
