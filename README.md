@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="https://github.com/lucio-iot-dev/Projeto-estudo-HTML/blob/master/assets/fotos/beautysalon.jpeg" width="80%">
+  <img alt="OriginSix" src="https://github.com/lucio-iot-dev/Projeto-estudo-HTML/blob/main/assets/fotos/beautysalon.jpeg" width="80%">
 </p>
 
 ## 🚀 Tecnologias
