@@ -44,6 +44,10 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## ![image](https://user-images.githubusercontent.com/73481550/150464430-b6a3ac38-ebcf-47dd-851a-69259207f143.png) Clique no link da aplicação 
+
+![image](https://user-images.githubusercontent.com/73481550/150463245-2b890a97-16ff-4b8a-93aa-bc6861553375.png)    [Link](https://lucio-iot-dev.github.io/Projeto-estudo-HTML/).
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Projeto-estudo-HTML/new/master) para mais detalhes.
