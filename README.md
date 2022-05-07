@@ -50,7 +50,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Projeto-estudo-HTML/new/master) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Projeto-estudo-HTML/blob/main/LICENSE) para mais detalhes.
 
 ---
 
